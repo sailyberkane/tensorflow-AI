@@ -1,0 +1,19 @@
+{
+  "name": "UEB",
+  "version": "1.0.0",
+  "description": "A simple Node.js project for text embedding using TensorFlow.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "tensorflow",
+    "text",
+    "embedding"
+  ],
+  "author": "Ilyes Berkane",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.7.0"
+  }
+}
